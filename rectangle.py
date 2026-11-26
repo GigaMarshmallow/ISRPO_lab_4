@@ -13,6 +13,7 @@ def area(a, b):
         area(4, 5) -> 20
     """
     return a * b 
+    
 
 
 def perimeter(a, b): 
